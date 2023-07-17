@@ -17,6 +17,7 @@ ml-model/*.json
 *.env
 ml-model/notebooks/.Trash-0/*
 ml-model/notebooks/*.json
+ml-model/notebooks/images/*
 notes.md
 semgrep.out
 localizer.pt
